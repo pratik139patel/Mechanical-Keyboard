@@ -6,5 +6,5 @@
 
 ## Mechanical Keyboard Application Screen-Shot: 
 <p align="center">
-  <img src="https://github.com/pratik139patel/Mechanical-Keyboard/blob/master/resources/img/mechanical-keyboard-screenshot.jpeg">
+    <img src="https://github.com/pratik139patel/Mechanical-Keyboard/blob/master/resources/img/mechanical-keyboard-screenshot.jpeg">
 </p>
