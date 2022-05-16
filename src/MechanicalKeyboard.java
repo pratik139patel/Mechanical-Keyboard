@@ -448,7 +448,7 @@ public class MechanicalKeyboard implements KeyListener
     private static void saveChangesToFile() 
     {
         //Create input file and initialize variables
-        File outFile = new File("Settings.txt");
+        File outFile = new File("settings.txt");
         BufferedWriter bw;
         FileWriter fw;
 
@@ -493,7 +493,7 @@ public class MechanicalKeyboard implements KeyListener
     private static void loadSavedColorScheme() 
     {
         //Create input file and initialize variables
-        File inFile = new File("Settings.txt");
+        File inFile = new File("settings.txt");
         userColorScheme = new Color[defaultColorScheme.length];
         for(int i = 0; i < defaultColorScheme.length; ++i) { userColorScheme[i] = new Color(defaultColorScheme[i].getRGB()); }
         userKeyPressSoundChoice = -1;
